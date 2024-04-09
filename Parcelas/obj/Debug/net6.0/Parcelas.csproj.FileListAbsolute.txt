@@ -1,0 +1,15 @@
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\bin\Debug\net6.0\Parcelas.exe
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\bin\Debug\net6.0\Parcelas.deps.json
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\bin\Debug\net6.0\Parcelas.runtimeconfig.json
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\bin\Debug\net6.0\Parcelas.dll
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\bin\Debug\net6.0\Parcelas.pdb
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.csproj.AssemblyReference.cache
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.AssemblyInfoInputs.cache
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.AssemblyInfo.cs
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.dll
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\refint\Parcelas.dll
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.pdb
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\Parcelas.genruntimeconfig.cache
+C:\Users\vinicius.lopes\source\repos\Parcelas\Parcelas\obj\Debug\net6.0\ref\Parcelas.dll
